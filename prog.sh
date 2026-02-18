@@ -2,7 +2,7 @@
 
 tput setaf 2
 
-echo "Digite el  primer valor: "
+echo "ingrese el  primer numero: "
 read num1
 
 echo "Ingrese el segundo numero: "
