@@ -1,4 +1,4 @@
-#suma de dos numeros en bash y agregando esto para que se vea el cambio
+#suma de dos numeros en bash
 
 tput setaf 2
 
